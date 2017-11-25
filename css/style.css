@@ -4,7 +4,9 @@ Powerweave Studio Home Page Starts Here
 ---------------------------------------------
 */
 body, html {
-	height: 100%
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
 }
 .bg-inverse{
 	width: 100%;
