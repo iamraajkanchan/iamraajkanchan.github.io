@@ -10,13 +10,42 @@
 		<script type="text/javascript" src="js/script.js"></script>
 	</head>
     <body>
+		<nav class="med-navbar">
+			<ul style="padding: 0px;">
+				<li class="med-navbar-menu-item active">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com" style="text-decoration: none;">Home</a>
+				</li >
+				<li class="med-navbar-menu-item">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com/about-us/" style="text-decoration: none;">About Us</a>
+				</li>
+				<li class="med-navbar-menu-item">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com/services/fashion-retouching/" style="text-decoration: none;">Services</a>
+				</li>
+				<li class="med-navbar-menu-item">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com/pricing/" style="text-decoration: none;">Prices</a>
+				</li>
+				<li class="med-navbar-menu-item">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com/our-work/" style="text-decoration: none;">Our Work</a>
+				</li>
+				<li class="med-navbar-menu-item">
+					<a class="med-navbar-menu-link" href="http://www.powerweavestudio.com/contact-us/" style="text-decoration: none;">Contact Us</a>
+				</li>
+			</ul>
+		</nav>
+		<div style="width: auto; height: auto;">
+			<div class="med-navbar-button">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
 		<div class="pos-f-t">
 		  <div class="collapse" id="navbarToggleExternalContent">
 			<div class="bg-inverse p-3">
 				<div class="contanier">
 					<div class="row">
 						<div class="col-md-3">
-							<p class="text-white"> Powerweave Studio </p>
+							<p class="text-white" style="font-size: 18px;"> Powerweave Studio </p>
 						</div>
 						<div class="col-md-3">
 							<ul class="navbar-nav navbar-inverse mr-auto mt-2 mt-md-0 list-unstyled">
@@ -71,6 +100,7 @@
 		<div class="home-fade-slide-container" id="home-fade-slide-container-id" style="width: 100% height: 100%">
 					<img class="home-logo-container" src="img/pws-web-logo.gif"/>
 					<span class="home-content">
+						"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 					</span>
 			<nav class="home-menu-slide-navbar">
 				<ul>
@@ -112,15 +142,47 @@
 				.navbar{
 					display: none;
 				}
-				.home-menu-slide-navbar li{
+				.med-navbar{
 					display: block;
-					transition: display 4s;
+				}
+				.med-navbar-button{
+					display: block;
+				}
+				.home-logo-container{
+					top: 300px;
+				}
+				.home-content{
+					top: 370px;
+				}
+				.home-menu-slide-navbar{
+					top: 530px;
+				}
+				.home-menu-slide-navber li{
+					display: block !important;
 				}
 			}
-
+			@media screen and (max-width: 600px){
+				.home-content{
+					width: 300px;
+					height: 42px;
+					font-size: 22px;
+				}
+			}
 			@media screen and (max-width: 486px){
 				.home-logo-container{
-					width: 80%
+					width: 291px;
+					left: 30px;
+				}
+				.home-content{
+					top: 370px;
+					left: 30px;
+				}
+				.home-menu-slide-navbar{
+					top: 530px;
+					left: 30px;
+				}
+				.home-menu-slide-navber li{
+					display: block !important;
 				}
 			}
 		</style>
