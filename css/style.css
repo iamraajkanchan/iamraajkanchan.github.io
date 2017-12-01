@@ -20,6 +20,7 @@ body, html {
 }
 .navbar-toggler{
 	margin: 15px auto;
+    cursor: pointer;
 }
 .nav-item a{
 	color: white;
@@ -123,6 +124,10 @@ body, html {
 	list-style-type: none;
 	display: inline-block;
 }
+.home-menu-slide-navbar li:hover{
+    transform: translateY(-5px);
+    transition: transform 0.5s ease;
+}
 
 .home-menu-slide-navbar a{
 	margin: 0px 20px 0px 0px;
@@ -131,6 +136,9 @@ body, html {
 	color: #fff;
 	font-size: 18px;
 	font-weight: bold;
+}
+.home-menu-slide-navbar a:hover{
+    color: #00adee;
 }
 .home-wrapper {
 	position: relative;

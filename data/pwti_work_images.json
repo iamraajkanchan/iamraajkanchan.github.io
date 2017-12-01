@@ -1,0 +1,150 @@
+{
+  "allImages":[
+    {
+      "url" : "img/zoom/1_A.jpg",
+      "infotext" : "View of stream in woods."
+    },
+    {
+      "url" : "img/zoom/H5-1.jpg",
+      "infotext" : "Rough road in woods."
+    },
+    {
+      "url" : "img/zoom/1_2a.jpg",
+      "infotext" : "Sunset from an old jetty."
+    },
+    {
+      "url" : "img/zoom/WE_R_2_A.jpg",
+      "infotext" : "Riverbank in alaska."
+    },
+    {
+      "url" : "img/zoom/PWTI_02_01-3.jpg",
+      "infotext" : "How autumn looks changed in park."
+    },
+    {
+      "url" : "img/zoom/Raw_CGI.jpg",
+      "infotext" : "View of Mountains in Switzerland."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563784.jpg",
+      "infotext" : "Cloudy sky in summer."
+    },
+    {
+      "url" : "img/zoom/24.jpg",
+      "infotext" : "View of rainy clouds from field."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563946.jpg",
+      "infotext" : "View of stream in woods."
+    },
+    {
+      "url" : "img/zoom/TBZ_G14_B.jpg",
+      "infotext" : "Rough road in woods."
+    },
+    {
+      "url" : "img/zoom/WE9-A.jpg",
+      "infotext" : "Sunset from an old jetty."
+    },
+    {
+      "url" : "img/zoom/2B.jpg",
+      "infotext" : "Riverbank in alaska."
+    },
+    {
+      "url" : "img/zoom/4B.jpg",
+      "infotext" : "How autumn looks changed in park."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563896.jpg",
+      "infotext" : "View of Mountains in Switzerland."
+    },
+    {
+      "url" : "img/zoom/TBZ_J16.jpg",
+      "infotext" : "Cloudy sky in summer."
+    },
+    {
+      "url" : "img/zoom/PWTI_04_01-28.jpg",
+      "infotext" : "View of rainy clouds from field."
+    }
+  ],
+  "fashionRetouching" : [
+    {
+      "url" : "img/zoom/09.11.2015563946.jpg",
+      "infotext" : "View of stream in woods."
+    },
+    {
+      "url" : "img/zoom/WE9-A.jpg",
+      "infotext" : "Sunset from an old jetty."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563946.jpg",
+      "infotext" : "View of stream in woods."
+    }
+  ],
+  "productRetouching" : [
+    {
+      "url" : "img/zoom/WE_R_2_A.jpg",
+      "infotext" : "Riverbank in alaska."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563784.jpg",
+      "infotext" : "Cloudy sky in summer."
+    },
+    {
+      "url" : "img/zoom/PWTI_02_01-3.jpg",
+      "infotext" : "How autumn looks changed in park."
+    }
+  ],
+  "clippingPath": [
+    {
+      "url" : "img/zoom/09.11.2015563784.jpg",
+      "infotext" : "Cloudy sky in summer."
+    },
+    {
+      "url" : "img/zoom/24.jpg",
+      "infotext" : "View of rainy clouds from field."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563946.jpg",
+      "infotext" : "View of stream in woods."
+    },
+    {
+      "url" : "img/zoom/TBZ_G14_B.jpg",
+      "infotext" : "Rough road in woods."
+    },
+    {
+      "url" : "img/zoom/WE9-A.jpg",
+      "infotext" : "Sunset from an old jetty."
+    },
+    {
+      "url" : "img/zoom/2B.jpg",
+      "infotext" : "Riverbank in alaska."
+    }
+  ],
+  "ghostMannequin" : [
+    {
+      "url" : "img/zoom/1_2a.jpg",
+      "infotext" : "Sunset from an old jetty."
+    },
+    {
+      "url" : "img/zoom/09.11.2015563784.jpg",
+      "infotext" : "Cloudy sky in summer."
+    },
+    {
+      "url" : "img/zoom/Raw_CGI.jpg",
+      "infotext" : "View of Mountains in Switzerland."
+    },
+    {
+      "url" : "img/zoom/PWTI_02_01-3.jpg",
+      "infotext" : "How autumn looks changed in park."
+    },
+    {
+      "url" : "img/zoom/24.jpg",
+      "infotext" : "View of rainy clouds from field."
+    }
+  ],
+  "colorisation": [
+    {
+      "url" : "img/zoom/Raw_CGI.jpg",
+      "infotext" : "View of Mountains in Switzerland."
+    }
+  ]
+}
