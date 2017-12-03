@@ -145,7 +145,7 @@ $.get("data/pwti_work_images.json", function(data){
 				$('#category-product-retouching').click(function(){
 						$('.product-photography-child').each(function(i){
 								setTimeout(function(){
-										$('.product-photography-child').eq(i).css({opacity: 0, transform: "scale(1)"});
+										$('.product-photography-child').eq(i).css({opacity: 0, transform: "scale(0)"});
 								}, 300);
 						});
 						setTimeout(function(){
